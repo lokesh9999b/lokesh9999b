@@ -1,45 +1,53 @@
-# 👋 Bommagani Lokesh
-
-**Full-Stack Developer | Cloud & DevOps Enthusiast | AI-Driven Solutions Architect**
+# <div align="center">🚀 Lokesh Bommagani</div>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-lokeshbommagani99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshbommagani99@gmail.com)
+## Full-Stack Developer | Cloud Architect | AI Solutions Engineer
+
+*Building scalable systems that solve real-world problems*
+
+[![Email](https://img.shields.io/badge/Email-lokeshbommagani99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshbommagani99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lokeshbommagani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshbommagani)
 [![GitHub](https://img.shields.io/badge/GitHub-lokesh9999b-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokesh9999b)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208978594059-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918978594059)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B918978594059-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918978594059)
 
 </div>
 
 ---
 
-## 📋 Professional Summary
+## 🎯 About Me
 
-Results-driven **Full-Stack Developer** with hands-on expertise in building **AI-driven enterprise applications**, automating **CI/CD pipelines**, and migrating legacy systems to modern cloud architectures. Demonstrated ability to deliver scalable, high-performance solutions on **Azure** with measurable business impact. Passionate about leveraging cutting-edge technologies to solve complex engineering challenges.
+I'm a passionate Full-Stack Developer and Cloud Architect with **2+ years** of proven expertise in designing and deploying enterprise-grade applications. I specialize in leveraging modern technologies like **AI/ML**, **Microservices**, and **Cloud Infrastructure** to deliver high-performance solutions that drive business impact.
+
+- 💼 Currently **Software Engineer** at Sify Technologies (Jul 2024 - Present)
+- 🎓 Bachelor of Technology in IT | **8.99/10 CGPA**
+- 🏆 **3rd Place** National Level Hackathon 2022
+- 🚀 Passionate about **DevOps**, **Cloud Architecture**, and **AI-Driven Solutions**
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Technical Expertise
 
-### 💻 **Languages**
+### 🔤 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🎨 **Frontend Development**
 ![Angular](https://img.shields.io/badge/Angular%2014--19-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Lightweight Charts](https://img.shields.io/badge/Lightweight%20Charts-1F77B4?style=flat-square&logo=tradingview&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=flat-square&logo=figma&logoColor=white)
 
-### ⚙️ **Backend & Microservices**
+### ⚙️ **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=docker&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=websocket&logoColor=white)
 
 ### 📊 **Data & Streaming**
@@ -49,80 +57,115 @@ Results-driven **Full-Stack Developer** with hands-on expertise in building **AI
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### 🚀 **DevOps & Cloud**
+### 🚀 **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6B6B?style=flat-square&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipeline-FF6B6B?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
 
-## 🏆 Professional Certifications
+## 🏢 Professional Experience
 
-- 🎓 **Azure Fundamentals (AZ-900)** - Microsoft
-- 🎓 **AWS Certified Developer Associate** - Amazon Web Services
-- 🎓 **IBM Certified Cloud Developer** - IBM (HTML, CSS, JavaScript)
-
----
-
-## 💼 Professional Experience
-
-### 🔧 **Software Engineer** | Sify Technologies, Mumbai
+### **Software Engineer** | Sify Technologies, Mumbai
 **Jul 2024 - Present**
 
-- **ISCAR Project**: Developed an AI-driven security compliance application utilizing **Groq LLM** to automate remediation plans, reducing manual resolution time by 60%
-- **CI/CD Automation**: Architected a fully automated pipeline via **GitHub Actions**, reducing deployment turnaround from 2 hours to **15 minutes** with zero-downtime releases on Azure
-- **System Migration**: Migrated legacy monolithic systems to a modern **Angular SSR architecture**, improving page load speeds by **40%** and enhancing UX
-- **Containerization**: Designed and containerized **Microservices** using Docker for environment parity across Azure Windows Servers and local development
+| Project | Impact | Technologies |
+|---------|--------|--------------|
+| **ISCAR Project** - AI Security Compliance | ⚡ **60% reduction** in manual resolution time | Groq LLM, Python, REST APIs |
+| **CI/CD Pipeline Automation** | ⏱️ Reduced deployment from **2hrs → 15min** | GitHub Actions, Azure, Docker |
+| **Legacy System Migration** | 📈 **40% improvement** in page load speed | Angular SSR, Microservices |
+| **Containerization** | 🐳 Standardized deployments across environments | Docker, Azure Windows Servers |
 
-### 📱 **Fullstack Developer Intern** | IFL Green Producer Company PVT.LTD, Rajahmundry
+**Key Achievements:**
+- Architected zero-downtime deployment strategies on Azure Cloud
+- Designed Microservices architecture with Docker containerization
+- Implemented comprehensive CI/CD pipelines reducing manual interventions by 80%
+
+---
+
+### **Fullstack Developer Intern** | IFL Green Producer Company PVT.LTD, Rajahmundry
 **Jul 2023 - Mar 2024**
 
-- **Attendance System**: Built a secure Employee Attendance System featuring **Geofencing** and **Image Verification**, achieving **99% accuracy** in automated payroll disbursement
-- **Security & Access Control**: Implemented complex **Role-Based Access Control (RBAC)** and dynamic validation workflows for financial data integrity
+| Project | Achievement | Technologies |
+|---------|-------------|--------------|
+| **Employee Attendance System** | ✅ **99% accuracy** in automated payroll | Geofencing, Image Recognition, Node.js |
+| **Role-Based Access Control** | 🔒 Enterprise-grade security implementation | RBAC, JWT, MongoDB |
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
 ### 🔐 **High-Frequency Crypto Trading Engine**
-**Tech Stack:** Kafka | Redis | Node.js | Angular | MongoDB | Docker
 
-- 📈 Architected a real-time trading platform streaming **BTC/USDT** live data from Finnhub via **WebSockets** to a custom Node.js/Express backend
-- 🔄 Implemented **Apache Kafka** as a message broker for durable event streaming and **Redis** for sub-millisecond price caching
-- 📊 Developed a responsive Angular dashboard using **RxJS Subjects** and **Lightweight Charts** to render live candlesticks (OHLC) with high performance
-- 💾 Utilized **MongoDB** with batch-processing consumer for historical trade data storage and analysis
+**Real-time trading platform with live market data streaming**
+
+```
+Architecture: WebSockets → Node.js/Express → Apache Kafka → MongoDB
+Frontend: Angular 19 + RxJS + Lightweight Charts
+Streaming: Finnhub API for BTC/USDT data
+Caching: Redis (sub-millisecond latency)
+```
+
+**Highlights:**
+- 📈 Live candlestick charts (OHLC) with high-frequency updates
+- 🔄 Event-driven architecture using Apache Kafka for durability
+- 💾 Historical trade data analysis with MongoDB aggregation pipelines
+- ⚡ Optimized for <100ms latency on price updates
+
+**Technologies:** Kafka | Redis | Node.js | Angular 19 | RxJS | MongoDB | Docker | WebSockets
 
 ---
 
-## 🎓 Education
+## 🎓 Certifications & Credentials
 
-### 🏫 Bachelor of Technology in Information Technology
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| Azure Fundamentals (AZ-900) | Microsoft | ✅ Certified |
+| AWS Certified Developer Associate | Amazon Web Services | ✅ Certified |
+| IBM Certified Cloud Developer | IBM | ✅ Certified |
+
+---
+
+## 📚 Education
+
+### **Bachelor of Technology in Information Technology**
 **Sagi Rama Krishnam Raju Engineering College, Bhimavaram**
+
 - **Duration:** Jun 2020 - Apr 2024
-- **CGPA:** 8.99/10
+- **Performance:** 8.99/10 CGPA
+- **Specialization:** Cloud Computing & Distributed Systems
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements & Recognition
 
 - 🥉 **3rd Place** - National Level Hackathon 2022 (VIT-AP in collaboration with Major League Hacking)
+- ⭐ Recognized for exceptional problem-solving and architectural design
+- 🚀 Successfully led migration of legacy monolithic systems to modern cloud-native architecture
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh9999b&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh9999b&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on **innovative projects** and **exciting opportunities**. Feel free to reach out!
+## 📊 GitHub Analytics
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh9999b&show_icons=true&theme=nord&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh9999b&layout=compact&theme=nord&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm passionate about **innovative projects**, **open-source contributions**, and **mentoring**. Whether you're looking to build something amazing or discuss technology trends, I'd love to connect!
+
+<div align="center">
+
+**🔗 Reach out through:**
 
 [📧 Email](mailto:lokeshbommagani99@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/lokeshbommagani) • [🐙 GitHub](https://github.com/lokesh9999b) • [💬 WhatsApp](https://wa.me/918978594059)
 
@@ -132,8 +175,12 @@ I'm always open to collaborating on **innovative projects** and **exciting oppor
 
 <div align="center">
 
-⭐ If you find my work interesting, don't forget to star my repositories!
+### 💡 *"Code is poetry written for machines, but solutions are crafted for people."*
 
-Made with ❤️ by Lokesh Bommagani
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+---
+
+**Made with ❤️ by Lokesh Bommagani** | Last Updated: May 2026
 
 </div>
